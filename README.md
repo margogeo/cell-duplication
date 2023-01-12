@@ -1,7 +1,7 @@
 # cell-duplication
 simulator of random time cell duplication
 
-To run the code matplotlib should be installed
+To run the code matplotlib and scipy should be installed
 
 Distribution in [stochastic simulation](https://github.com/margogeo/cell-duplication/blob/main/cells.py) can be changed in line 17 to on of the others available [here](https://docs.python.org/3/library/random.html#random.betavariate)
 
