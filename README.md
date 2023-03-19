@@ -11,3 +11,7 @@ Comparison of approaches:
 - Max duration of tracking: ~1500 minutes for stochastic simulation, ~75000 minutes for deterministic simulation(the number of cells exceeds number of atoms in the universe after 20000 minutes)
 - Given the same time period(1000 minutes) stochastic simulation result vary from 6000 to 20000 cells, deterministic simulation result is ~8500 cells
 
+----------------
+
+[Gillespie algorithm vs differential equation solution](https://github.com/margogeo/cell-duplication/blob/main/Gillespie.py)
+This version of G. algorithm can be applied to a model of 1 or 2 components(reaction propensities can be changed). It returns a plot with multiple trajections, its mean and a mean value from differential equation for one component.
