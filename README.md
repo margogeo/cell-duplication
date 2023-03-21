@@ -15,3 +15,6 @@ Comparison of approaches:
 
 [Gillespie algorithm vs differential equation solution](https://github.com/margogeo/cell-duplication/blob/main/Gillespie.py)
 This version of G. algorithm can be applied to a model of 1 or 2 components(reaction propensities can be changed). It returns a plot with multiple trajections, its mean and a mean value from differential equation for one component.
+
+![image](https://user-images.githubusercontent.com/70298122/226743785-cdcbfc38-d60f-41fd-b4a4-f8f3a855413a.png)
+(blue lines are trajectories, red line is a mean of trajectories, yellow is value of m at which growth and descending processes balance)
