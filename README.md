@@ -3,7 +3,7 @@ simulator of random time cell duplication
 
 To run the code matplotlib and scipy should be installed
 
-Distribution in [stochastic simulation](https://github.com/margogeo/cell-duplication/blob/main/cells.py) can be changed in line 17 to on of the others available [here](https://docs.python.org/3/library/random.html#random.betavariate)
+Distribution in [stochastic simulation](https://github.com/margogeo/cell-duplication/blob/main/cells.py) can be changed in line 17 to one of the others available [here](https://docs.python.org/3/library/random.html#random.betavariate)
 
 [Deterministic simulation](https://github.com/margogeo/cell-duplication/blob/main/determCells.py) allows to track the number of cells for much longer because we don't store every cell and time complexity depends on number of minutes, not on number of cells
 
